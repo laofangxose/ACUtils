@@ -21,3 +21,6 @@ var/
 
 # PyCharm folder
 .idea/
+
+# Virtual environment
+venv/
